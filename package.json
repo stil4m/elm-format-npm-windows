@@ -1,0 +1,14 @@
+{
+  "name": "elm-format-npm-windows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "elm-format-help": "./node_modules/.bin/elm-format --help"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elm-format": "^0.6.0-alpha"
+  }
+}
