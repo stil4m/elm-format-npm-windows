@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "elm-format": "^0.6.0-alpha"
+    "elm-format": "0.6.1-alpha"
   }
 }
